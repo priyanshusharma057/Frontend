@@ -118,3 +118,19 @@
       opacity:1;
     }
   }
+  .training{
+    background-image: url('training.jpg');
+    
+  }
+  .tr{
+    background-image: url('training-1.jpg');
+  }
+  .trai{
+    width: 97%;
+  }
+  .aboutus{
+    background-image: url('about.jpg');
+  }
+  html {
+    scroll-behavior: smooth;
+  }
